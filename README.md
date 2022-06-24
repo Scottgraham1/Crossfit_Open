@@ -71,6 +71,7 @@ However our R-Squared value was only 0.155, meaning our data had only a 15.5% ch
 Split datasets into 4 quartiles in each gender and compared the mean values of each of the quartiles vs each other and then compared to the Games athletes.
 
 ![f_quartiles](images/f_quartiles.png) ![m_quartiles](images/m_quartiles.png)
+
 ![f_games_qtr](images/f_games_qtr.png) ![m_games_qtr](images/m_games_qtr.png)
 
 ## Conclusions
